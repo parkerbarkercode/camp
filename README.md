@@ -8,7 +8,7 @@
 
 ## Intermediate (Learn to build a website from scratch)
 
-Lesson 1: MVC Basics 
+Lesson 1: MVC Basics  
 Lesson 2: View (HTML, CSS)  
 Lesson 3: Controller (Ruby)  
 Lesson 4: Model (SQL)  
