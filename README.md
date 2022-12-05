@@ -18,7 +18,6 @@
 ### Lesson 4: Model (SQL)
 
 
-
 ## Advanced (Learn to build an app from scratch)
 
 ### Lesson 1: App and Expo Basics
@@ -28,6 +27,10 @@
 ### Lesson 3: Project
 
 
+## Expert (Learn to build a video game from scratch)
 
+### Lesson 1: Game Design
 
+### Lesson 2: Unity 
 
+### Lesson 3: Project
