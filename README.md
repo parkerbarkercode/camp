@@ -29,7 +29,6 @@ Lesson 3: Project
 
 ## Master (Build and sell a digital product)
 
-Lesson 1: Business Models  
-Lesson 2: Marketing  
-Lesson 3: Customer Success  
-Lesson 4: Agile Development  
+Lesson 1: Make Money (business model and marketing)   
+Lesson 2: Give people what they want (agile development)  
+Lesson 3: Keep people loving your app (customer success)  
