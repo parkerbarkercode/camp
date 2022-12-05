@@ -2,9 +2,9 @@
 
 ## Beginner (Learn to build a website with WYSIWYG)
 
-### Lesson 1: Wix
+### Lesson 1: Marketing (Wix)
 
-### Lesson 2: Big Cartel
+### Lesson 2: Ecommerce (Big Cartel)
 
 
 ## Intermediate (Learn to build a website from scratch)
