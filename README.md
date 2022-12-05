@@ -29,8 +29,15 @@ Lesson 4: Model (SQL)
 
 ## Expert (Learn to build a video game from scratch)
 
-### Lesson 1: Game Design
+1) Lesson 1: Game Design
 
-### Lesson 2: Unity 
+2) Lesson 2: Unity 
 
-### Lesson 3: Project
+3) Lesson 3: Project
+
+## Master (Build and sell a digital product)
+
+1) Lesson 1: Business Models
+2) Lesson 2: Marketing
+3) Lesson 3: Customer Success
+4) Lesson 4: Agile Development
