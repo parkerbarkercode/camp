@@ -20,11 +20,11 @@ Lesson 4: Model (SQL)
 
 ## Advanced (Learn to build an app from scratch)
 
-### Lesson 1: App and Expo Basics
+**Lesson 1:** App and Expo Basics
 
-### Lesson 2: React Native 
+**Lesson 2:** React Native 
 
-### Lesson 3: Project
+**Lesson 3:** Project
 
 
 ## Expert (Learn to build a video game from scratch)
