@@ -4,6 +4,7 @@
 
 - Lesson 1: Marketing (Wix)  
 - Lesson 2: Ecommerce (Big Cartel)
+- Lesson 2: Game Dev (??)
 
 
 ## Intermediate (Learn to build a website from scratch)
